@@ -1,4 +1,4 @@
-// Write a program to sort an array in descending order
+// Write a program to sort an array in descending order.
 
 import readlineSync from "readline-sync";
 
