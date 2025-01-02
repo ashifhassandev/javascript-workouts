@@ -18,7 +18,8 @@ Explore this comprehensive [JavaScript Roadmap](https://roadmap.sh/javascript) t
 ✅ How to handle asynchronous operations effectively  
 ✅ Real-world applications and best practices  
 
-> Click the link below to dive into the roadmap:  
+> Additional Resources:  
 🎯 [JavaScript Roadmap](https://roadmap.sh/javascript)  
+📚 [Domain Fundamentals - Week 3 JS Notes](https://bronotes.super.site/week-3-domain-fundamentals)  
 
-Happy Learning! 💻
+Happy Learning! 💻  
