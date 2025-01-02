@@ -1,7 +1,7 @@
 {
   "name": "javascript-workouts",
   "version": "1.0.0",
-  "description": "",
+  "description": "A comprehensive collection of JavaScript examples and exercises to practice core concepts, improve skills, and master JavaScript fundamentals.",
   "main": "index.js",
   "type": "module",
   "scripts": {
